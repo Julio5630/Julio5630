@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="center">🌱 Tecnologias aplicadas e em desenvolvimento ↓</h2>
+<h2 align="center">🌱 Tecnologias em prática e em estudo↓</h2>
 
 ###
 
@@ -30,6 +30,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css logo"  />
 </div>
 
 ###
