@@ -50,22 +50,12 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.instagram.com/julio_ferreira002/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="70" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="70" />
   </a>
   <a href="https://www.linkedin.com/in/julioferreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="70" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31zlqwormlz5ref7a55drvamzkoa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zlqwormlz5ref7a55drvamzkoa&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="70" />
   </a>
 </div>
 
