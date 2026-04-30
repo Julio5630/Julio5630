@@ -9,14 +9,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31zlqwormlz5ref7a55drvamzkoa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zlqwormlz5ref7a55drvamzkoa&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julio5630&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -58,12 +50,22 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://www.instagram.com/julio_ferreira002/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="53" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="70" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/julioferreira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="53" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="70" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31zlqwormlz5ref7a55drvamzkoa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zlqwormlz5ref7a55drvamzkoa&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
